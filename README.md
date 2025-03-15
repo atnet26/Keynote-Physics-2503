@@ -4,7 +4,7 @@
 
 ### 素材
 
-请上传至<a href="https://github.com/Aaron-Li-Workstation/Keynote-History-2502-Wenbohan/tree/main/%E7%B4%A0%E6%9D%90/%E6%B8%A9%E5%8D%9A%E6%B6%B5" target="_blank" class="btn btn-primary mt-3 mr-3 no-underline"><span>此处</span></a>
+请上传至<a href="https://github.com/atnet26/Keynote-Physics-2503/tree/main/%E7%B4%A0%E6%9D%90/%E6%B8%A9%E5%8D%9A%E6%B6%B5" target="_blank" class="btn btn-primary mt-3 mr-3 no-underline"><span>此处</span></a>
 
 > [!TIP]
 > 点击“ADD FILES”=>“Upload Files”上传文件。
@@ -36,7 +36,7 @@
 > 
 > 小版本应勾选Set as a preview release
 
-将PPT上传到<a href="https://github.com/Aaron-Li-Workstation/Keynote-History-2502-Wenbohan/releases/new" target="_blank" class="btn btn-primary mt-3 mr-3 no-underline"><span>Release中</span></a>
+将PPT上传到<a href="https://github.com/atnet26/Keynote-Physics-2503/releases/new" target="_blank" class="btn btn-primary mt-3 mr-3 no-underline"><span>Release中</span></a>
 
 > [!NOTE]
 > 一个版本要求包含版本标题和版本内容
