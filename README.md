@@ -4,7 +4,7 @@
 
 ### 素材
 
-请上传至<a href="https://github.com/atnet26/Keynote-Physics-2503/tree/main/%E7%B4%A0%E6%9D%90/%E6%B8%A9%E5%8D%9A%E6%B6%B5" target="_blank" class="btn btn-primary mt-3 mr-3 no-underline"><span>此处</span></a>
+通过微信群上传
 
 > [!TIP]
 > 点击“ADD FILES”=>“Upload Files”上传文件。
